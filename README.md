@@ -5,6 +5,8 @@
 
 在使用前 请生成个人 Access Token 然后填入 Replit 环境key `TOKEN`
 
+https://github.com/settings/tokens
+
 本程序唯一的隐私内容在  Replit 环境中，推荐个人仓库部署：
 
 个人版：
